@@ -1,0 +1,20 @@
+.class-one,
+.class-two {
+    background-color: pink;
+    font-family: vedana, "Dejavu Sans", sans-serif;
+}
+
+.class-two {
+    font-size: 24px;
+}
+
+#id-one {
+    color: blue;
+    font-size: 36px;
+}
+
+#id-two {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
